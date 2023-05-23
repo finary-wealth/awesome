@@ -9,22 +9,23 @@
 
 > A curated list of awesome things related to Finary, inspired by [awesome.re](http://awesome.re).
 
-## Table of Contents
+### Table of Contents
 
-- [Community API Clients](#community-api-clients)
-- [Community Libraries](#community-libraries--tools)
-- [Community Projects](#community-projects)
+#### [Community API Clients](#community-api-clients)
+ - [Rust 🦀](https://github.com/yovanoc/finary)
+#### [Community Libraries](#community-libraries--tools)
+#### [Community Projects](#community-projects)
 
-## Community API Clients
-
-
-## Community libraries & Tools
+### Community API Clients
 
 
-## Community Projects
+### Community libraries & Tools
+
+
+### Community Projects
 
 - [Community Home Page](https://community.finary.com/)
 
-## License
+### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
