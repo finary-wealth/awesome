@@ -24,6 +24,9 @@
 ## Community Projects
 
 - [Community Home Page](https://community.finary.com/)
+- [Finalynx](https://github.com/MadeInPierre/finalynx) - A command line investment assistant to organize your portfolio and simulate its future to reach your life goals.
+
+
 
 ## License
 
