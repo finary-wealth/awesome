@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Community API Clients](#Community API Clients)
+- [Community API Clients](#community-api-clients)
 - [Community Libraries](#community-libraries--tools)
 - [Community Projects](#community-projects)
 
