@@ -12,12 +12,12 @@
 ### Table of Contents
 
 #### [Community API Clients](#community-api-clients)
- - [Rust 🦀](https://github.com/yovanoc/finary)
 #### [Community Libraries](#community-libraries--tools)
 #### [Community Projects](#community-projects)
 
 ### Community API Clients
 
+ - [Rust 🦀](https://github.com/yovanoc/finary)
 
 ### Community libraries & Tools
 
