@@ -17,6 +17,7 @@
 
 ### Community API Clients
 
+ - [Python 🐍](https://github.com/lasconic/finary_uapi)
  - [Rust 🦀](https://github.com/yovanoc/finary)
 
 ### Community libraries & Tools
