@@ -9,23 +9,24 @@
 
 > A curated list of awesome things related to Finary, inspired by [awesome.re](http://awesome.re).
 
-## Table of Contents
+### Table of Contents
 
-- [Community API Clients](#community-api-clients)
-- [Community Libraries](#community-libraries--tools)
-- [Community Projects](#community-projects)
+#### [Community API Clients](#community-api-clients)
+#### [Community Libraries](#community-libraries--tools)
+#### [Community Projects](#community-projects)
 
-## Community API Clients
+### Community API Clients
+
+ - [Rust 🦀](https://github.com/yovanoc/finary)
+
+### Community libraries & Tools
 
 
-## Community libraries & Tools
-
-
-## Community Projects
+### Community Projects
 
 - [Community Home Page](https://community.finary.com/)
 - [Finalynx](https://github.com/MadeInPierre/finalynx) - A command line investment assistant to organize your portfolio, simulate its future, and reach your life goals.
 
-## License
+### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
