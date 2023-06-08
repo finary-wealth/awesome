@@ -22,8 +22,8 @@
 
 ### Community libraries & Tools
 
-  - [Export CSV bookmarklet](https://lasconic.github.io/finary_bookmarklet_export_csv/) - Export your assets to CSV. [Contribute](https://github.com/lasconic/finary_bookmarklet_export_csv/).
   - [Finalynx](https://github.com/MadeInPierre/finalynx) - A customizable command line extension for Finary with additional visualizations.
+  - [Export CSV bookmarklet](https://lasconic.github.io/finary_bookmarklet_export_csv/) - Export your assets to CSV. [Contribute](https://github.com/lasconic/finary_bookmarklet_export_csv/).
 
 ### Community Projects
 
