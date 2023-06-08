@@ -25,6 +25,7 @@
 ### Community Projects
 
 - [Community Home Page](https://community.finary.com/)
+- [Finalynx](https://github.com/MadeInPierre/finalynx) - A customizable command line extension for Finary with additional visualizations.
 
 ### License
 
