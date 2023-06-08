@@ -18,6 +18,7 @@
 ### Community API Clients
 
  - [Rust 🦀](https://github.com/yovanoc/finary)
+ - [Python 🐍](https://github.com/lasconic/finary_uapi) - API wrapper + import cryptos and stocks from CSV
 
 ### Community libraries & Tools
 
