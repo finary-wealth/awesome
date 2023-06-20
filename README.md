@@ -32,3 +32,9 @@
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+### Disclaimer
+
+You are leaving the Finary environment.   
+
+The developments carried out and made available on this platform are the sole responsibility of their developers. Finary takes no part in, and assumes no responsibility for, the reliability or operation of these developments, which you are solely responsible for creating and/or using.
