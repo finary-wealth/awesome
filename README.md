@@ -24,6 +24,7 @@
 
   - [Finalynx](https://github.com/MadeInPierre/finalynx) - A customizable command line extension for Finary with additional visualizations.
   - [Export CSV bookmarklet](https://lasconic.github.io/finary_bookmarklet_export_csv/) - Export your assets to CSV. [Contribute](https://github.com/lasconic/finary_bookmarklet_export_csv/).
+  - [Finasync](https://github.com/nmathey/finasync) - A simple tool to sync your Finary portfolio values from not integrated sources platforms
 
 ### Community Projects
 
