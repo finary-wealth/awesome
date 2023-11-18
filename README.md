@@ -19,6 +19,7 @@
 
  - [Rust 🦀](https://github.com/yovanoc/finary)
  - [Python 🐍](https://github.com/lasconic/finary_uapi) - API wrapper + import cryptos and stocks from CSV
+ - [Ruby 💎🔴](https://github.com/abrisse/finary) - API wrapper + tools (crowdfunding sync)
 
 ### Community libraries & Tools
 
